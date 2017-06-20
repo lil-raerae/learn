@@ -6,3 +6,4 @@ Pyton Learning Plan
 4. Get Plotly
 5. Look into pandas library
 6. If you don't like it you can git out!
+7. How about them Yanks?
