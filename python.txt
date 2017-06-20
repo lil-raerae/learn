@@ -5,3 +5,4 @@ Pyton Learning Plan
 3. Get better at matplotlib
 4. Get Plotly
 5. Look into pandas library
+6. If you don't like it you can git out!
